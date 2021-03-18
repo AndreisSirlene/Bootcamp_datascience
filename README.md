@@ -28,5 +28,19 @@ The emphasis was on analyzing time series, including:
 
 ## Module 5: Treatment, analysis and machine learning applied.
 
+This module was development focus on a practical project that go through the entire Data Science workflow, from understanding the problem, treating and analyzing the data to the proposed solution using Machine Learning. By working with dataset of COVID-19 from Sírio Libanês hospital. From data preparation, treatment and analysis of data to deeply understand the problem we are dealing with and propose possible solutions.
+
+* Machine Learning modules
+* Metrics and model evaluation
 
 ## Module 6: Models, metrics and validations in Machine Learning
+
+* Model Evaluation
+* Overfitting
+* Underfitting
+
+By the end of the Bootcamp I delivered the proposal project based on Covid 19 ICU dataset made available by Sirio Libanes hospital (Sao Paulo - Brazil)
+
+
+
+https://nbviewer.jupyter.org/github/AndreisSirlene/Bootcamp_datascience/blob/main/Final%20Project%20-%20ICU%20Prediction%20Sirio%20Libanes/Optional%20models.ipynb
