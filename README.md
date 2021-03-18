@@ -41,6 +41,7 @@ This module was development focus on a practical project that go through the ent
 
 By the end of the Bootcamp I delivered the proposal project based on Covid 19 ICU dataset made available by Sirio Libanes hospital (Sao Paulo - Brazil)
 
+Final Project: https://nbviewer.jupyter.org/github/AndreisSirlene/Bootcamp_datascience/blob/main/Final%20Project%20-%20ICU%20Prediction%20Sirio%20Libanes/SirleneAndreis-FinalProject.ipynb
 
-
+Additional Notebook:
 https://nbviewer.jupyter.org/github/AndreisSirlene/Bootcamp_datascience/blob/main/Final%20Project%20-%20ICU%20Prediction%20Sirio%20Libanes/Optional%20models.ipynb
